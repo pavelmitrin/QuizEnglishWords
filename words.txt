@@ -1,0 +1,66 @@
+if - если
+else - иначе (ещё)
+and - и
+or - или
+not - не
+while - пока (продолжение)
+for - для
+in - в
+range - диапазон
+append - добавить
+insert - вставлять
+extend - продлевать
+sort - сортировать
+reverse - обратный
+remove - удалять
+clear - прозрачный
+count - считать
+length - длина
+break - разрыв (перерыв)
+continue - продолжать
+upper case - верхний регистр
+lower case - нижний регистр
+capitalize - писать прописными буквами (первая заглавная)
+find - находить
+split - расколоть (разбить)
+join - присоединиться (соединить)
+tuple - кортеж
+dictionary - словарь
+item - предмет
+key - ключ
+value - значение
+set - устанавливать
+get - получать
+pass - пасс
+definition - определение
+frozen - замороженный
+frozen set - замороженный набор
+lambda - лямбда
+open - открыть
+close - закрыть
+read - читать
+write - писать
+encoding - кодирование
+class - класс (python)
+directory - каталог (директория)
+print - распечатать
+input - вход
+string - строка
+integer - целое число
+boolean - логический (тип данных)
+None - ничего (пустое значение)
+False - ложь
+True - истина (правда)
+empty - пустой
+try - попытка
+except - кроме
+error - ошибка
+finally - окончательно
+import - импортировать
+time - время
+date - дата
+data - данные
+system - система
+return - возвращаться
+add - добавлять
+initialize - инициализировать
